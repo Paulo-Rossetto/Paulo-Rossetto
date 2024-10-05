@@ -49,9 +49,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Paulo-Rossetto/Paulo-Rossetto/output/snake.svg" alt="Snake animation" />
-
-###
