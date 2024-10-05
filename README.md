@@ -1,4 +1,4 @@
-<h2 align="left">👋💙Olá! Meu nome é Paulo Rossetto e sou um developer FullStack apaixonado por tecnologia e inovação ✨🚀....</h2>
+<h2 align="left">👋💙Olá! Meu nome é Paulo Rossetto e sou um desenvolvedor FullStack apaixonado por tecnologia e inovação ✨🚀....</h2>
 
 ###
 
